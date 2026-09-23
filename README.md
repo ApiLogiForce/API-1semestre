@@ -1,4 +1,4 @@
-# Aprendizado por Projeto Integrado - ChainMind 3° Semestre (API)
+# Aprendizado por Projeto Integrado (API) - LogiForce 1° Semestre 
 
 Desenvolver uma solução fundamentada em Pesquisa Operacional para otimizar o planejamento das equipes de fiscalização do IPEM-SP com base no histórico de inspeções.
 
@@ -16,14 +16,12 @@ Este projeto é um trabalho acadêmico de Aprendizagem por Projetos Integrados (
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   João Vitor Overas Rodrigues Guedes         |   [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CrawS2)              |
-| Scrum Master  | Ana Beatriz Chiavini |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/anachiavini)     |
-| Team Member   | Filipe Gabriel Moreira de Paula Ferreira              |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/)      [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/StassieFilipe)        |
-|  Team Member  | Gabriela Souza Oliveira                |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GabrielaSouzaOiveira)        |
-|  Team Member  | Lucas Fernando Luciano Serafim                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)   |
-|  Team Member  | Mário de Oliveira Silva Júnior       |            [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MarioJunior12)    
-|  Team Member  | Raquel Araújo Lima       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/RaquelAraujoL)
-| Team Member   | Tainara Oliveira  |  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/tainarao479-cmyk)
+| Product Owner |   Maria Elisa Lopes de OLiveira         |   [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CrawS2)              |
+| Scrum Master  | Gabriel do Nascimento Silva |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/anachiavini)     |
+| Team Member   | Pedro Noguti Nunes             |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/)      [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/StassieFilipe)        |
+|  Team Member  | Rafael                |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GabrielaSouzaOiveira)        |
+|  Team Member  | Rebeka Luiza da Cunha Silva                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)   |
+
 # Objetivo do Projeto
 O objetivo do projeto é otimizar o planejamento das equipes de fiscalização do IPEM-SP utilizando o histórico de inspeções, por meio de uma solução baseada em Pesquisa Operacional.
 
@@ -35,7 +33,7 @@ O objetivo do projeto é otimizar o planejamento das equipes de fiscalização d
 
 ## Tecnologias Utilizadas
 
-* Jira Software
+* Github
 * Power BI
 * Microsoft Excel
 * Microsoft Word
