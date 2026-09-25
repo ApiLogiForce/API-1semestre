@@ -19,7 +19,7 @@ Este projeto é um trabalho acadêmico de Aprendizagem por Projetos Integrados (
 | Product Owner |   Maria Elisa Lopes de OLiveira         |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/CrawS2)              |
 | Scrum Master  | Gabriel do Nascimento Silva |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/anachiavini)     |
 | Team Member   | Pedro Noguti Nunes             |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/)      [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/StassieFilipe)        |
-|  Team Member  | Rafael                |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GabrielaSouzaOiveira)        |
+|  Team Member  | Rafael Pereira Martins dos Santos                |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GabrielaSouzaOiveira)        |
 |  Team Member  | Rebeka Luiza da Cunha Silva                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)   |
 
 # Objetivo do Projeto
@@ -63,7 +63,7 @@ O objetivo do projeto é otimizar o planejamento das equipes de fiscalização d
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | 30/09/2026 | Em Andamento | [MVP](MVP/sp1.md)  |
-| 02                | 28/10/2026 | a fazer  | [MVP](MVP/sp2.md)  |
-| 03                | 25/11/2026 | a fazer  | [MVP](MVP/sp3.md)  |
+| 01                | 01/10/2026 | Em Andamento | [MVP](MVP/sp1.md)  |
+| 02                | 29/10/2026 | a fazer  | [MVP](MVP/sp2.md)  |
+| 03                | 26/11/2026 | a fazer  | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 03/12/2026 | a fazer  | [MVP](#)  |
