@@ -23,12 +23,13 @@ Este projeto é um trabalho acadêmico de Aprendizagem por Projetos Integrados (
 |  Team Member  | Rebeka Luiza da Cunha Silva                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)   |
 
 # Objetivo do Projeto
-O objetivo do projeto é otimizar o planejamento das equipes de fiscalização do IPEM-SP utilizando o histórico de inspeções, por meio de uma solução baseada em Pesquisa Operacional.
+Este projeto tem como objetivo desenvolver uma solução de análise e visualização de dados para mapear e organizar informações sobre os principais setores industriais e de serviços de São José dos Campos, visando:
 
-* Minimizar deslocamentos e reduzir o tempo de viagem das equipes;
-* Balancear a carga de trabalho entre os fiscais;
-* Apoiar a tomada de decisão no planejamento das operações;
-
+* Mapear os principais setores industriais e de serviços;
+* Organizar e estruturar as informações econômicas da região;
+* Identificar os setores predominantes e o perfil produtivo;
+* Facilitar a visualização e compreensão dos dados;
+* Apoiar a análise do desenvolvimento econômico regional e futuras tomadas de decisão.
 
 
 ## Tecnologias Utilizadas
@@ -47,8 +48,8 @@ O objetivo do projeto é otimizar o planejamento das equipes de fiscalização d
 | 2    | Altíssima       |Como tomador de decisões públicas, quero analisar o perfil profissional e as qualificações mais buscadas pelas empresas    | 5          | 1      |
 | 3    | Alta       | Como tomador de decisões públicas quero identificar quais são as características socioeconômicas de São José dos Campos | 4          | 1      |
 | 4    | Alta      | Como tomador de decisões públicas , quero estruturar o mapa das cadeias produtivas  | 7  | 2       |                            
-| 5    | Alta     | Como tomador de decisões públicas , quero um cruzamento dos indicadores econômicos e industriais | 5       | 3    |
-| 6   | Média      | Como tomador de decisões públicas , quero uma relação entre empresas, empregos, investimentos e exportações  | 3          | 3      |
+| 5    | Alta     | Como tomador de decisões públicas , quero um cruzamento dos indicadores econômicos e industriais | 5       | 2   |
+| 6   | Média      | Como tomador de decisões públicas , quero uma relação entre empresas, empregos, investimentos e exportações  | 3          | 2      |
 | 7    |  Alta    | Como tomador de decisões públicas, quero uma analise dos perfis das principais indústrias em SJC  |7   | 3   |
 | 8     | Alta   | Como tomador de decisões públicas, quero a identificação dos setores com maior concentração industrial  | 8   | 3    |
 | 9    | Média   | Como tomador de decisões públicas, quero um levantamento dos principais desafios industriais de cada industria citada | 7| 3|
