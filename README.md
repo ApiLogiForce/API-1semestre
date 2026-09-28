@@ -44,9 +44,9 @@ O objetivo do projeto é otimizar o planejamento das equipes de fiscalização d
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Altíssima       | Como coordenador de desenvolvimento, quero que seja feita uma filtragem dos itens a serem utilizados da Base de Dados através da Linguagem Phyton.  | 7          | 1      |
-| 2    | Alta       |Como coordenador de desenvolvimento, quero que seja feita uma plataforma de BI que me permita visualizar os pontos de maior demanda de fiscalização, feita no Power BI.    | 5          | 1      |
-| 3    | Alta       | Como coordenador de desenvolvimento, quero que dentro da plataforma BI seja possível visualizar o tempo consumido por cada fiscal.  | 5          | 2      |
+| 1    | Altíssima       | Como tomador de decisões públicas, quero produzir um levantamento de dados para identificar os setores que mais geram oportunidades de emprego em São José dos Campos  |5          | 1      |
+| 2    | Altíssima       |Como tomador de decisões públicas, quero analisar o perfil profissional e as qualificações mais buscadas pelas empresas    | 5          | 1      |
+| 3    | Alta       | Como tomador de decisões públicas quero identificar quais são as características socioeconômicas de São José dos Campos | 4          | 1      |
 | 4    | Alta      | Como coordenador de desenvolvimento, quero a otimização dos dados filtrados. a fim de reduzir os custos de tempo dos fiscais.  |  6     | 2       |                            
 | 5    | Alta     | Como coordenador de desenvolvimento, quero que a plataforma de BI possua mapas das principais rotas utilizadas durante o processo de fiscalização de forma visual e objetiva.  | 7       | 3    |
 | 6   | Média      | Como coordenador de desenvolvimentos, quero que seja possível filtrar as informações de rotas por município.  | 3          | 3      |
