@@ -38,7 +38,6 @@ O objetivo do projeto é otimizar o planejamento das equipes de fiscalização d
 * Microsoft Excel
 * Microsoft Word
 * WhatsApp
-* Python (Colab)
   
 # Product Backlog
 
@@ -47,12 +46,12 @@ O objetivo do projeto é otimizar o planejamento das equipes de fiscalização d
 | 1    | Altíssima       | Como tomador de decisões públicas, quero produzir um levantamento de dados para identificar os setores que mais geram oportunidades de emprego em São José dos Campos  |5          | 1      |
 | 2    | Altíssima       |Como tomador de decisões públicas, quero analisar o perfil profissional e as qualificações mais buscadas pelas empresas    | 5          | 1      |
 | 3    | Alta       | Como tomador de decisões públicas quero identificar quais são as características socioeconômicas de São José dos Campos | 4          | 1      |
-| 4    | Alta      | Como coordenador de desenvolvimento, quero a otimização dos dados filtrados. a fim de reduzir os custos de tempo dos fiscais.  |  6     | 2       |                            
-| 5    | Alta     | Como coordenador de desenvolvimento, quero que a plataforma de BI possua mapas das principais rotas utilizadas durante o processo de fiscalização de forma visual e objetiva.  | 7       | 3    |
-| 6   | Média      | Como coordenador de desenvolvimentos, quero que seja possível filtrar as informações de rotas por município.  | 3          | 3      |
-| 7    |  Média    | Como coordenador de desenvolvimento, quero que seja possível filtrar as informações de rota por região metropolitana do estado de São Paulo.   | 3   | 3   |
-| 8     | Média   | Como coordenador de desenvolvimento, quero comparar a situação da operação real com a otimizada, mostrando as diferenças de tempo e quilometragem percorrida.  | 4   | 3    |
-| 9    | Baixíssima   | Como coordenador de desenvolvimento, quero que seja feito um relatório, que documente tudo que foi realizado ao longo do projeto. | 5| 3|
+| 4    | Alta      | Como tomador de decisões públicas , quero estruturar o mapa das cadeias produtivas  | 7  | 2       |                            
+| 5    | Alta     | Como tomador de decisões públicas , quero um cruzamento dos indicadores econômicos e industriais | 5       | 3    |
+| 6   | Média      | Como tomador de decisões públicas , quero uma relação entre empresas, empregos, investimentos e exportações  | 3          | 3      |
+| 7    |  Alta    | Como tomador de decisões públicas, quero uma analise dos perfis das principais indústrias em SJC  |7   | 3   |
+| 8     | Alta   | Como tomador de decisões públicas, quero a identificação dos setores com maior concentração industrial  | 8   | 3    |
+| 9    | Média   | Como tomador de decisões públicas, quero um levantamento dos principais desafios industriais de cada industria citada | 7| 3|
 
 
 
