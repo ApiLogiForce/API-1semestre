@@ -2,9 +2,9 @@
 
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+- Qual problema resolve?  Organiza e facilita a compreensão dos principais setores industriais e de serviços de São José dos Campos.
+- Qual hipótese será validada? A visualização integrada dos dados permite identificar os setores predominantes e o perfil produtivo da região.
+- Qual valor será entregue ao usuário final?  Uma visão clara e baseada em dados para apoiar análises, planejamento e futuras tomadas de decisão.
 
 ---
 
