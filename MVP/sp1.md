@@ -5,9 +5,9 @@
 
 
   
-- Qual problema resolve?  Organiza e facilita a compreensão dos principais setores industriais e de serviços de São José dos Campos.
-- Qual hipótese será validada? A visualização integrada dos dados permite identificar os setores predominantes e o perfil produtivo da região.
-- Qual valor será entregue ao usuário final?  Uma visão clara e baseada em dados para apoiar análises, planejamento e futuras tomadas de decisão.
+- Qual problema resolve? Facilita a identificação dos setores que mais geram empregos, das qualificações mais demandadas pelas empresas e das características socioeconômicas de São José dos Campos.
+- Qual hipótese será validada? Que uma solução de análise e visualização de dados permite aos tomadores de decisões públicas compreender melhor o perfil econômico e social do município, apoiando decisões mais assertivas.
+- Qual valor será entregue ao usuário final? Informações organizadas e visualizações claras que permitam identificar setores geradores de emprego, analisar qualificações profissionais demandadas e compreender as características socioeconômicas da cidade.
 
 ---
 
@@ -36,9 +36,9 @@ Desenvolver um **dashboard interativo para visualizar os principais setores econ
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | Como tomador de decisões públicas, quero produzir um levantamento de dados para identificar os setores que mais geram oportunidades de emprego em São José dos Campos| A fazer |
-| 02     | [Funcionalidade Z]                           | Em andamento |
-| 03     | [Funcionalidade Z]                           | Em andamento |
+| 01     | Como tomador de decisões públicas, quero produzir um levantamento de dados para identificar os setores que mais geram oportunidades de emprego em São José dos Campos | A fazer |
+| 02     | Como tomador de decisões públicas , quero estruturar o mapa das cadeias produtivas | Em andamento |
+| 03     | Como tomador de decisões públicas, quero uma analise dos perfis das principais indústrias em SJC | Em andamento |
 
 ---
 
