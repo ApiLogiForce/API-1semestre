@@ -11,7 +11,7 @@ Desenvolver uma solução de análise e visualização de dados para mapear o pe
 
 
 # Projeto (API) 
-Este projeto é um trabalho acadêmico de Aprendizagem por Projetos Integrados (API) do curso de Logística da Fatec SJC, voltado para atender a uma demanda do IPEM-SP (Instituto de Pesos e Medidas do Estado de São Paulo).  Em termos simples, o objetivo do projeto é otimizar as rotas e viagens que as equipes de fiscalização do IPEM fazem no dia a dia.
+Este projeto é um trabalho acadêmico de Aprendizagem por Projetos Integrados (API) do curso de Logística da Fatec SJC, voltado para atender a uma demanda do CADI e da Secretaria de Desenvolvimento Econômico de São José dos Campos. Em termos simples, o projeto busca mapear e visualizar dados das empresas e serviços industriais do município para apoiar decisões estratégicas.
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
@@ -34,11 +34,11 @@ Este projeto tem como objetivo desenvolver uma solução de análise e visualiza
 
 ## Tecnologias Utilizadas
 
-* Github
 * Power BI
 * Microsoft Excel
 * Microsoft Word
 * WhatsApp
+* Python (Colab)
   
 # Product Backlog
 
