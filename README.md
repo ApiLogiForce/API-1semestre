@@ -1,6 +1,6 @@
 # Aprendizado por Projeto Integrado (API) - LogiForce 1° Semestre 
 
-Desenvolver uma solução fundamentada em Pesquisa Operacional para otimizar o planejamento das equipes de fiscalização do IPEM-SP com base no histórico de inspeções.
+Desenvolver uma solução de análise e visualização de dados para mapear o perfil produtivo de São José dos Campos, identificando os setores econômicos predominantes e apoiando a tomada de decisões estratégicas.
 
 # Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
