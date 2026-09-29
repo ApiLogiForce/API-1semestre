@@ -1,7 +1,10 @@
 # 📌 MVP - LogiForce
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
+ O MVP é criar uma solução simples de análise e visualização de dados que permita identificar e compreender os principais setores industriais e de serviços de São José dos Campos, destacando o perfil produtivo e os setores predominantes da região.
+
+
+  
 - Qual problema resolve?  Organiza e facilita a compreensão dos principais setores industriais e de serviços de São José dos Campos.
 - Qual hipótese será validada? A visualização integrada dos dados permite identificar os setores predominantes e o perfil produtivo da região.
 - Qual valor será entregue ao usuário final?  Uma visão clara e baseada em dados para apoiar análises, planejamento e futuras tomadas de decisão.
