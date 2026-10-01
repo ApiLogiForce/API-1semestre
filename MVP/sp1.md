@@ -34,16 +34,16 @@ Desenvolver um **dashboard interativo para visualizar os principais setores econ
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | Como tomador de decisões públicas, quero produzir um levantamento de dados para identificar os setores que mais geram oportunidades de emprego em São José dos Campos | A fazer |
+| 01     | Como tomador de decisões públicas, quero produzir um levantamento de dados para identificar os setores que mais geram oportunidades de emprego em São José dos Campos | Feito |
 | 02     | Como tomador de decisões públicas , quero estruturar o mapa das cadeias produtivas | Em andamento |
 | 03     | Como tomador de decisões públicas, quero uma analise dos perfis das principais indústrias em SJC | Em andamento |
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir que o usuário         visualize e analise dados dos setores econômicos de SJC.
+- O sistema deve registrar os setores e informações consultadas.
+- Métricas coletadas: número de trabalhadores, participação de cada setor e quantidade de empresas.
 
 ---
 
