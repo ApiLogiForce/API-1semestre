@@ -10,10 +10,9 @@ O MVP visa organizar e analisar dados dos setores industriais e de serviços de 
 ---
 
 ## 📝 Descrição da Solução
-Desenvolver um **dashboard interativo para visualizar os principais setores econômicos de São José dos Campos e identificar o perfil produtivo da região.**  
+Desenvolver um **dashboard interativo para visualizar os principais setores socioeconômicos de São José dos Campos e identificar o perfil produtivo da região.**  
 - Funcionalidades principais incluídas  
 - Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
 
 ---
 
