@@ -33,7 +33,6 @@ Desenvolver um **dashboard interativo para visualizar os principais setores soci
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-
 | 02     | Como tomador de decisões públicas , quero estruturar o mapa das cadeias produtivas | Em andamento |
 | 03     | Como tomador de decisões públicas, quero uma analise dos perfis das principais indústrias em SJC | Em andamento |
 
