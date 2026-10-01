@@ -18,8 +18,7 @@ Este projeto é um trabalho acadêmico de Aprendizagem por Projetos Integrados (
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Product Owner |   Maria Elisa Lopes de OLiveira         |      [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/elisaloliveira)              |
 | Scrum Master  | Gabriel do Nascimento Silva |        [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/pedronogut)     |
-| Team Member   | Pedro Noguti Nunes             |    [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/pedronogut)        |
-    |
+| Team Member   | Pedro Noguti Nunes             |    [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/pedronogut)       
 |  Team Member  | Rebeka Luiza da Cunha Silva                 |   [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)   |
 
 # Objetivo do Projeto
@@ -38,7 +37,6 @@ Este projeto tem como objetivo desenvolver uma solução de análise e visualiza
 * Microsoft Excel
 * Microsoft Word
 * WhatsApp
-* Python (Colab)
   
 # Product Backlog
 
