@@ -18,7 +18,7 @@ Desenvolver um **dashboard interativo para visualizar os principais setores econ
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
+- **Persona 1:** Tomador de decisões públicas: utiliza dados dos setores de SJC para analisar o cenário econômico e apoiar decisões de planejamento.
 
 ---
 
