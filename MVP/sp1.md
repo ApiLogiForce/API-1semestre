@@ -33,7 +33,7 @@ Desenvolver um **dashboard interativo para visualizar os principais setores soci
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | Como tomador de decisões públicas, quero produzir um levantamento de dados para identificar os setores que mais geram oportunidades de emprego em São José dos Campos | Feito |
+
 | 02     | Como tomador de decisões públicas , quero estruturar o mapa das cadeias produtivas | Em andamento |
 | 03     | Como tomador de decisões públicas, quero uma analise dos perfis das principais indústrias em SJC | Em andamento |
 
@@ -61,5 +61,7 @@ Desenvolver um **dashboard interativo para visualizar os principais setores soci
 ---
 
 ## 📂 Anexos / Evidências
-- Dados Tratados e Plataforma BI: 
- 
+- Dados Tratados e Plataforma BI:
+- https://drive.google.com/file/d/1q5ghGex8b9ce_IZFVcVBQmUnWk2XX98M/view?usp=drivesdk
+- https://drive.google.com/file/d/1q0P7S9WeK_vxfNfliDTuFSzIXAqpnsk4/view?usp=drivesdk
+
