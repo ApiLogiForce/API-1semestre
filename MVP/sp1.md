@@ -60,7 +60,7 @@ Desenvolver um **dashboard interativo para visualizar os principais setores soci
 ---
 
 ## 📂 Anexos / Evidências
-- Dados Tratados e Plataforma BI:
+- Plataforma BI:
 - https://drive.google.com/file/d/1q5ghGex8b9ce_IZFVcVBQmUnWk2XX98M/view?usp=drivesdk
 - https://drive.google.com/file/d/1q0P7S9WeK_vxfNfliDTuFSzIXAqpnsk4/view?usp=drivesdk
 
