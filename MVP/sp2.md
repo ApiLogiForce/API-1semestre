@@ -8,10 +8,10 @@ O MVP tem como propósito desenvolver uma solução de análise e visualização
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+Será desenvolvido um MVP para organizar e visualizar dados econômicos e industriais de São José dos Campos.
+- Funcionalidades principais: mapear cadeias produtivas e cruzar dados de empresas, empregos, investimentos e exportações.
+- Limitações: dependência da disponibilidade e qualidade dos dados públicos.
+- Escopo reduzido: reunir os dados essenciais em tabelas e visualizações para apoiar a análise e a tomada de decisões públicas.
 
 ---
 
