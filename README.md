@@ -37,6 +37,7 @@ Este projeto tem como objetivo desenvolver uma solução de análise e visualiza
 * Microsoft Excel
 * Microsoft Word
 * WhatsApp
+* Python (Colab)
   
 # Product Backlog
 
