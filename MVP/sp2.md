@@ -1,11 +1,10 @@
 # 📌 MVP - [Nome do Projeto]
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
-
+O MVP tem como propósito desenvolver uma solução de análise e visualização de dados que permita estruturar as cadeias produtivas de São José dos Campos, cruzar indicadores econômicos e industriais e relacionar informações sobre empresas, empregos, investimentos e exportações.
+- Qual problema resolve? A falta de um mapeamento estruturado que integre informações sobre as empresas e os setores produtivos do município.
+- Qual hipótese será validada? A integração e a visualização de dados públicos permitem compreender melhor as relações entre os setores industriais, sua atividade econômica e seus impactos na região.
+- Qual valor será entregue ao usuário final? Uma ferramenta que facilite a análise da estrutura produtiva regional, identifique oportunidades e forneça informações estratégicas para apoiar a tomada de decisões públicas.
 ---
 
 ## 📝 Descrição da Solução
