@@ -11,7 +11,7 @@ Desenvolver uma solução de análise e visualização de dados para mapear o pe
 
 
 # Projeto (API) 
-Este projeto é um trabalho acadêmico de Aprendizagem por Projetos Integrados (API) do curso de Logística da Fatec SJC, voltado para atender a uma demanda do CADI e da Secretaria de Desenvolvimento Econômico de São José dos Campos. Em termos simples, o projeto busca mapear e visualizar dados das empresas e serviços industriais do município para apoiar decisões estratégicas.
+Este projeto é um trabalho acadêmico de Aprendizagem por Projetos Integrados (API) do curso de Logística da Fatec SJC, desenvolvido para atender a uma demanda do CADI e da Secretaria de Desenvolvimento Econômico de São José dos Campos. A proposta busca solucionar a falta de um mapeamento estruturado da economia regional por meio da análise e visualização de dados públicos sobre empresas, empregos e setores industriais e de serviços, a fim de identificar os setores predominantes, compreender o perfil produtivo do município e apoiar a tomada de decisões estratégicas para o desenvolvimento econômico local.
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      GitHub                                                                                                                                                      |
@@ -23,12 +23,11 @@ Este projeto é um trabalho acadêmico de Aprendizagem por Projetos Integrados (
 
 # Objetivo do Projeto
 Este projeto tem como objetivo desenvolver uma solução de análise e visualização de dados para mapear e organizar informações sobre os principais setores industriais e de serviços de São José dos Campos, visando:
-
-* Mapear os principais setores industriais e de serviços;
-* Organizar e estruturar as informações econômicas da região;
-* Identificar os setores predominantes e o perfil produtivo;
-* Facilitar a visualização e compreensão dos dados;
-* Apoiar a análise do desenvolvimento econômico regional e futuras tomadas de decisão.
+* Identificar os setores que mais geram empregos e as qualificações profissionais demandadas;
+* Analisar o perfil socioeconômico e produtivo do município;
+* Mapear as cadeias produtivas e identificar os setores com maior concentração industrial;
+* Cruzar indicadores econômicos e industriais, relacionando empresas, empregos, investimentos e exportações;
+* Identificar os principais desafios e oportunidades de desenvolvimento industrial.
 
 
 ## Tecnologias Utilizadas
