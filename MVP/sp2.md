@@ -24,7 +24,7 @@ Será desenvolvido um MVP para organizar e visualizar dados econômicos e indust
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
+| US1 | Como tomador de decisões públicas , quero estruturar o mapa das cadeias produtivas        | Alta       | 5 pontos   |
 | US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
 
 ---
