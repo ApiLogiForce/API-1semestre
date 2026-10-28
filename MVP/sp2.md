@@ -16,8 +16,7 @@ Será desenvolvido um MVP para organizar e visualizar dados econômicos e indust
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- **Persona 1:** Tomador de decisões públicas: utiliza dados sobre os setores econômicos de São José dos Campos para identificar as principais cadeias produtivas, analisar indicadores de empresas, empregos e exportações e apoiar decisões de planejamento e desenvolvimento econômico.
 
 ---
 
