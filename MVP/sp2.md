@@ -38,9 +38,10 @@ Será desenvolvido um MVP para organizar e visualizar dados econômicos e indust
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+-O MVP deve permitir que o usuário visualize e analise a estrutura econômica e produtiva de São José dos Campos, identificando os principais setores, empresas, empregos e exportações, para apoiar a tomada de decisões públicas.
+
+- O sistema deve registrar: os dados consultados sobre os setores econômicos, quantidade de empresas, vínculos empregatícios e valores de exportação.
+- Métricas coletadas: quantidade de empresas por setor, número de empregos formais, vínculos CLT, valor exportado por produto ou setor e participação dos principais setores na economia local.  
 
 ---
 
