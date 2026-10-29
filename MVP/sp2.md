@@ -33,8 +33,8 @@ Será desenvolvido um MVP para organizar e visualizar dados econômicos e indust
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     |Análise do perfil industrial de São José dos Campos, identificando os setores com maior concentração e os principais desafios de cada indústria.  | Em Andamento|
+
 
 ---
 
