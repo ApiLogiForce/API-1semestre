@@ -22,7 +22,7 @@ Desenvolver um **dashboard interativo para visualizar os principais setores soci
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
-|   US   | User Story                                                                 | Prioridade | Estimativa (Horas)|
+|  ID   | User Story                                                                 | Prioridade | Estimativa (Horas)|
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | US1 | Como tomador de decisões públicas, quero produzir um levantamento de dados para identificar os setores que mais geram oportunidades de emprego em São José dos Campos         | Altíssima  | 5 |
 | US2 | Como tomador de decisões públicas, quero analisar o perfil profissional e as qualificações mais buscadas pelas empresas         | Altíssima  |   5   |
