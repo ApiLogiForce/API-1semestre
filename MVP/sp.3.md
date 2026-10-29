@@ -31,14 +31,6 @@
 
 ---
 
-## 📅 Sprint(s) Relacionadas
-| Sprint | Entregas Principais                          | Status   |
-|--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | A fazer|
-| 02     | [Funcionalidade Z]                           | Em andamento |
-| 02     | [Funcionalidade Z]                           | Em andamento |
-
-
 ---
 
 ## 📊 Critérios de Aceitação
