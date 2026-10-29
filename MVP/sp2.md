@@ -21,10 +21,12 @@ Será desenvolvido um MVP para organizar e visualizar dados econômicos e indust
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
-| ID  | User Story                                                                 | Prioridade | Estimativa |
+| ID  | User Story                                                                 | Prioridade | Estimativa (Horas)|
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como tomador de decisões públicas , quero estruturar o mapa das cadeias produtivas        | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US4 | Como tomador de decisões públicas, quero estruturar o mapa das cadeias produtivas        | Alta       | 7  |
+| US5 | Como tomador de decisões públicas, quero um cruzamento dos indicadores econômicos e industriais.         | Média      | 5  |
+| US6 | Como tomador de decisões públicas, quero uma relação entre empresas, empregos, investimentos e exportações         | Média      | 3  |
+
 
 ---
 
