@@ -62,5 +62,16 @@ Será desenvolvido um MVP para organizar e visualizar dados econômicos e indust
 
 ## 📂 Anexos / Evidências
 - Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+ 
+<img width="1288" height="728" alt="image" src="https://github.com/user-attachments/assets/8a6d9bf2-50ba-41cf-8cdf-ad5a39093b53" />
+
+<img width="1247" height="703" alt="image" src="https://github.com/user-attachments/assets/f3627c38-65ad-4892-a88a-efb1cd2495fc" />
+
+<img width="1265" height="719" alt="image" src="https://github.com/user-attachments/assets/4cfa3c30-acbc-4ad6-bd0b—-
+
+- Fluxos ou protótipos
+
+https://app.powerbi.com/groups/me/reports/acc12e8b-919c-4333-9405-e47e3ba04210/1d767a55a22c8901a591?experience=power-bi
+
+https://drive.google.com/drive/folders/192QUjTBLColquClR4Ulbbgz6u5ksVWXy?usp=sharing
+
