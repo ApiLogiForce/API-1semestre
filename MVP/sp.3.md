@@ -23,11 +23,11 @@
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
-| ID  | User Story                                                                 | Prioridade | Estimativa |
+| ID  | User Story                                                                 | Prioridade | Estimativa (horas)|
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como tomador de decisões públicas, quero produzir um levantamento de dados para identificar os setores que mais geram oportunidades de emprego em São José dos Campos         | Altíssima  | 5 pontos   |
-| US2 | Como tomador de decisões públicas, quero analisar o perfil profissional e as qualificações mais buscadas pelas empresas         | Altíssima  | 5 pontos   |
-| US3 | Como tomador de decisões públicas quero identificar quais são as características socioeconômicas de São José dos Campos         | Alta       | 4 pontos   |
+| US7 | Como tomador de decisões públicas, quero produzir um levantamento de dados para identificar os setores que mais geram oportunidades de emprego em São José dos Campos         | Alta | 7  |
+| US8 | Como tomador de decisões públicas, quero a identificação dos setores com maior concentração industrial     | Alta  | 8   |
+| US9 | Como tomador de decisões públicas, quero um levantamento dos principais desafios industriais de cada industria citada         | Alta       | 7   |
 
 ---
 
