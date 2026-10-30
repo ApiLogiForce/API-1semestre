@@ -71,7 +71,9 @@ Será desenvolvido um MVP para organizar e visualizar dados econômicos e indust
 
 - Fluxos ou protótipos
 
-https://app.powerbi.com/groups/me/reports/acc12e8b-919c-4333-9405-e47e3ba04210/1d767a55a22c8901a591?experience=power-bi
+Power BI:https://app.powerbi.com/groups/me/reports/acc12e8b-919c-4333-9405-e47e3ba04210/1d767a55a22c8901a591?experience=power-bi
 
-https://drive.google.com/drive/folders/192QUjTBLColquClR4Ulbbgz6u5ksVWXy?usp=sharing
+Google Drive: https://drive.google.com/drive/folders/192QUjTBLColquClR4Ulbbgz6u5ksVWXy?usp=sharing
+
+Relatório Sprint 2: https://1drv.ms/w/c/1787a0c17a3c388e/IQBbgzswE1vPT7w2WwQzEWFpAeV7Vz2tSx_gtQHMPWUAul8
 
