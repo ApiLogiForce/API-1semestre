@@ -1,4 +1,4 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - LogiForce
 
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:  
@@ -18,8 +18,6 @@
 
 ## 👥 Personas / Usuários-Alvo
 - **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
-
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
