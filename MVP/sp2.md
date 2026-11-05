@@ -67,11 +67,12 @@ Será desenvolvido um MVP para organizar e visualizar dados econômicos e indust
 
 <img width="1247" height="703" alt="image" src="https://github.com/user-attachments/assets/f3627c38-65ad-4892-a88a-efb1cd2495fc" />
 
-<img width="1265" height="719" alt="image" src="https://github.com/user-attachments/assets/4cfa3c30-acbc-4ad6-bd0b—-
+<img width="1247" height="703" alt="image" src="https://github.com/user-attachments/assets/84d909ba-a9bf-4bd5-83ec-41f86b0ecf5d" />
+
 
 - Fluxos ou protótipos
 
-Power BI:https://app.powerbi.com/groups/me/reports/acc12e8b-919c-4333-9405-e47e3ba04210/1d767a55a22c8901a591?experience=power-bi
+Power BI: [https://app.powerbi.com/groups/me/reports/acc12e8b-919c-4333-9405-e47e3ba04210/1d767a55a22c8901a591?experience=power-bi](https://app.powerbi.com/view?r=eyJrIjoiY2MyNjZjYjYtNTkwZi00ZjM1LTg4MWUtOThlNWVhOWM0Mzk5IiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9&embedImagePlaceholder=true&pageName=9d8fce30898402797a7c)
 
 Google Drive: https://drive.google.com/drive/folders/192QUjTBLColquClR4Ulbbgz6u5ksVWXy?usp=sharing
 
