@@ -16,7 +16,7 @@ Este projeto é um trabalho acadêmico de Aprendizagem por Projetos Integrados (
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   Maria Elisa Lopes de OLiveira         |      [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/elisaloliveira)              |
+| Product Owner |   Maria Elisa Lopes de Oliveira         |      [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/elisaloliveira)              |
 | Scrum Master  | Gabriel do Nascimento Silva |        [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/pedronogut)     |
 | Team Member   | Pedro Noguti Nunes             |    [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/pedronogut)       
 
