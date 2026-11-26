@@ -39,7 +39,7 @@ Escopo reduzido:
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | US7 | Como tomador de decisões públicas, quero uma analise dos perfis das principais indústrias em SJC    |  Alta       | 7   |
 | US8 | Como tomador de decisões públicas, quero a identificação dos setores com maior concentração industrial    | Alta  | 8   |
-| US9 | Como tomador de decisões públicas, quero um levantamento dos principais desafios industriais de cada industria citada    | Alta       | 7   |
+| US9 | Como tomador de decisões públicas, quero um levantamento dos principais desafios industriais de cada indústria citada    | Alta       | 7   |
 
 ---
 
