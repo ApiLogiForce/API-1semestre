@@ -1,7 +1,7 @@
 # 📌 MVP - LogiForce
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
+O propósito do MVP é desenvolver um painel interativo no Power BI que reúna e apresente informações sobre os principais setores industriais de São José dos Campos, identificando sua concentração, características e desafios. A ferramenta busca facilitar a visualização e a interpretação dos dados, auxiliando gestores públicos na tomada de decisões e no planejamento de ações para fortalecer o desenvolvimento econômico regional.
 - Qual problema resolve? 
 A falta de informações organizadas sobre os principais setores industriais de São José dos Campos, sua concentração econômica e seus desafios.
 
