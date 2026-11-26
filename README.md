@@ -62,5 +62,5 @@ Este projeto tem como objetivo desenvolver uma solução de análise e visualiza
 |-------------------|------------|----------|-----------|
 | 01                | 01/10/2026 | Feito | [MVP](MVP/sp1.md)  |
 | 02                | 29/10/2026 | Feito | [MVP](MVP/sp2.md)  |
-| 03                | 26/11/2026 | a fazer  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | 03/12/2026 | a fazer  | [MVP](#)  |
+| 03                | 26/11/2026 | Feito | [MVP](MVP/sp3.md)  |
+| Feira de Soluções | 03/12/2026 | a fazer | [MVP](#)  |
