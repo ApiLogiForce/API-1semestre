@@ -2,17 +2,18 @@
 
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?
+- Qual problema resolve? 
 A falta de informações organizadas sobre os principais setores industriais de São José dos Campos, sua concentração econômica e seus desafios.
 
-- Qual hipótese será validada?
+- Qual hipótese será validada? 
 A hipótese de que um painel interativo com dados industriais pode facilitar a identificação de oportunidades e problemas, auxiliando na tomada de decisões públicas.
 
-- Qual valor será entregue ao usuário final?
+- Qual valor será entregue ao usuário final? 
 Uma ferramenta visual e acessível que reúne informações sobre o cenário industrial de SJC, permitindo análises mais rápidas e decisões estratégicas para o desenvolvimento econômico regional.
 ---
 
 ## 📝 Descrição da Solução
+
 Será desenvolvido um painel interativo no Power BI para apresentar informações sobre o setor industrial de São José dos Campos, permitindo visualizar sua concentração, características e principais desafios. A solução busca facilitar a análise dos dados e apoiar a tomada de decisões públicas.
 
 Funcionalidades principais incluídas:
@@ -27,7 +28,6 @@ Limitações conhecidas:
 - Análise limitada aos dados levantados durante o projeto.
 Escopo reduzido:
 
-Nesta primeira etapa, o MVP terá apenas as funcionalidades essenciais: reunir, organizar e apresentar os dados industriais em um painel visual no Power BI. Não incluirá atualizações automáticas, previsões econômicas ou integração com sistemas externos.
 ---
 
 ## 👥 Personas / Usuários-Alvo
@@ -37,9 +37,9 @@ Nesta primeira etapa, o MVP terá apenas as funcionalidades essenciais: reunir, 
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa (horas)|
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US7 | Como tomador de decisões públicas, quero produzir um levantamento de dados para identificar os setores que mais geram oportunidades de emprego em 
-| US8 | Como tomador de decisões públicas, quero a identificação dos setores com maior concentração industrial     | Alta  | 8   |
-| US9 | Como tomador de decisões públicas, quero um levantamento dos principais desafios industriais de cada industria citada         | Alta       | 7   |
+| US7 | Como tomador de decisões públicas, quero uma analise dos perfis das principais indústrias em SJC    | 
+| US8 | Como tomador de decisões públicas, quero a identificação dos setores com maior concentração industrial    | Alta  | 8   |
+| US9 | Como tomador de decisões públicas, quero um levantamento dos principais desafios industriais de cada industria citada    | Alta       | 7   |
 
 ---
 
