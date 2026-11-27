@@ -31,7 +31,7 @@ Escopo reduzido:
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** Como tomador de decisões públicas, quero analisar os perfis das principais indústrias, identificar os setores com maior concentração industrial e compreender seus principais desafios, para reconhecer oportunidades e apoiar o desenvolvimento industrial de São José dos Campos.  
+- **Persona 1:** Tomador de decisões públicas que necessita identificar os principais segmentos industriais, analisar sua concentração e compreender suas características produtivas. Dor atendida: Falta de visibilidade sobre a distribuição e a composição do setor industrial de São José dos Campos.
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
