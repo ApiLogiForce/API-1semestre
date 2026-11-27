@@ -17,7 +17,7 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** Como tomador de decisões públicas, quero identificar os setores que mais geram empregos, analisar o perfil profissional e as qualificações buscadas pelas empresas e compreender as características socioeconômicas de São José dos Campos, para apoiar decisões relacionadas ao mercado de trabalho e ao desenvolvimento social do município.
+- **Persona 1:** Tomador de decisões públicas que necessita identificar os setores que mais geram empregos e compreender o perfil profissional e socioeconômico de São José dos Campos. Dor atendida: Falta de informações organizadas sobre oportunidades de trabalho e necessidades de qualificação profissional.
 
 ---
 
