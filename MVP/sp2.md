@@ -33,7 +33,7 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     |Análise do perfil industrial de São José dos Campos, identificando os setores com maior concentração e os principais desafios de cada indústria.  | Em Andamento|
+| 01     |Análise do perfil industrial de São José dos Campos, identificando os setores com maior concentração e os principais desafios de cada indústria.  | Feito |
 
 
 ---
