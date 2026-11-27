@@ -17,7 +17,7 @@ Desenvolver um **dashboard interativo para visualizar os principais setores soci
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** Tomador de decisões públicas: utiliza dados dos setores de SJC para analisar o cenário econômico e apoiar decisões de planejamento.
+- **Persona 1:** Como tomador de decisões públicas, quero identificar os setores que mais geram empregos, analisar o perfil profissional e as qualificações buscadas pelas empresas e compreender as características socioeconômicas de São José dos Campos, para apoiar decisões relacionadas ao mercado de trabalho e ao desenvolvimento social do município.
 
 ---
 
