@@ -73,6 +73,14 @@ Escopo reduzido:
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+- Vídeo (MVP): [Youtube](https://youtu.be/nLK3W4LNGYs)
+
+- Código em Python: [Google Colab](https://colab.research.google.com/drive/1VNweHcbL9HMMqe0OnENBzHy7RJsiKgML?usp=sharing)
+
+- Backlog do Produto: [Google Drive]([https://joaoveras2204.atlassian.net/jira/software/projects/CHM/boards/2/backlog](https://docs.google.com/spreadsheets/d/1QLMl6T_HscUJN2Wr1lgov4h0nxRXbFVA/edit?gid=1931246216#gid=1931246216))
+   
+- Plataforma BI [Power BI Online](https://app.powerbi.com/view?r=eyJrIjoiY2MyNjZjYjYtNTkwZi00ZjM1LTg4MWUtOThlNWVhOWM0Mzk5IiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9&embedImagePlaceholder=true)
+
+- Relatório da Sprint 3: [Google Drive](https://drive.google.com/file/d/1bsDv7lz7Zn8isrHLQhvwD5sNQAGrgmlE/view?usp=sharing)
+
+- Dados e informações do projeto: [Google Drive]([https://drive.google.com/drive/folders/1WpgCSsYgyQfJp6wbMT_iUSVMh_ewN1PP?usp=drive_link](https://drive.google.com/drive/folders/192QUjTBLColquClR4Ulbbgz6u5ksVWXy))  
