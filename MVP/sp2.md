@@ -16,7 +16,7 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** Como tomador de decisões públicas, quero estruturar as cadeias produtivas, analisar os indicadores econômicos e industriais e relacionar empresas, empregos, investimentos e exportações, para compreender a dinâmica econômica e produtiva de São José dos Campos.
+- **Persona 1:** Tomador de decisões públicas que necessita acompanhar as cadeias produtivas e analisar indicadores econômicos e industriais do município. Dor atendida: Dificuldade de integrar informações sobre empresas, empregos, investimentos e exportações.
 
 ---
 
