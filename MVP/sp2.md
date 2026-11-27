@@ -1,14 +1,14 @@
 # 📌 MVP - LogiForce
 
 ## 🎯 Objetivo do MVP
-O MVP tem como propósito desenvolver uma solução de análise e visualização de dados que permita estruturar as cadeias produtivas de São José dos Campos, cruzar indicadores econômicos e industriais e relacionar informações sobre empresas, empregos, investimentos e exportações.
+> O MVP tem como propósito desenvolver uma solução de análise e visualização de dados que permita estruturar as cadeias produtivas de São José dos Campos, cruzar indicadores econômicos e industriais e relacionar informações sobre empresas, empregos, investimentos e exportações.
 - Qual problema resolve? A falta de um mapeamento estruturado que integre informações sobre as empresas e os setores produtivos do município.
 - Qual hipótese será validada? A integração e a visualização de dados públicos permitem compreender melhor as relações entre os setores industriais, sua atividade econômica e seus impactos na região.
 - Qual valor será entregue ao usuário final? Uma ferramenta que facilite a análise da estrutura produtiva regional, identifique oportunidades e forneça informações estratégicas para apoiar a tomada de decisões públicas.
 ---
 
 ## 📝 Descrição da Solução
-Será desenvolvido um MVP para organizar e visualizar dados econômicos e industriais de São José dos Campos.
+> Será desenvolvido um MVP para organizar e visualizar dados econômicos e industriais de São José dos Campos.
 - Funcionalidades principais: mapear cadeias produtivas e cruzar dados de empresas, empregos, investimentos e exportações.
 - Limitações: dependência da disponibilidade e qualidade dos dados públicos.
 - Escopo reduzido: reunir os dados essenciais em tabelas e visualizações para apoiar a análise e a tomada de decisões públicas.
