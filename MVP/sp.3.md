@@ -75,7 +75,8 @@ Escopo reduzido:
 ## 📂 Anexos / Evidências
 - Vídeo (MVP): [Youtube](https://youtu.be/nLK3W4LNGYs)
 
-- Código em Python: [Google Colab](https://colab.research.google.com/drive/1VNweHcbL9HMMqe0OnENBzHy7RJsiKgML?usp=sharing)
+- Códigos em Python: [Google Colab](https://colab.research.google.com/drive/1VNweHcbL9HMMqe0OnENBzHy7RJsiKgML?usp=sharing)
+- [Google Colab](https://colab.research.google.com/drive/1SDTYGqC96yadCJ_LyVfZTrx2yD2u9ifT)
 
 - Backlog do Produto: [Google Drive]([https://joaoveras2204.atlassian.net/jira/software/projects/CHM/boards/2/backlog](https://docs.google.com/spreadsheets/d/1QLMl6T_HscUJN2Wr1lgov4h0nxRXbFVA/edit?gid=1931246216#gid=1931246216))
    
