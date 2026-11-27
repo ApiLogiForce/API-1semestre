@@ -2,13 +2,13 @@
 
 ## 🎯 Objetivo do MVP
 > O MVP tem como objetivo desenvolver um painel interativo no Power BI para analisar os principais setores industriais de São José dos Campos, facilitando a interpretação dos dados e apoiando a tomada de decisões e o desenvolvimento econômico regional.
-## Qual problema resolve? 
+- ## Qual problema resolve? 
 A falta de informações organizadas sobre os principais setores industriais de São José dos Campos, sua concentração econômica e seus desafios.
 
-## Qual hipótese será validada? 
+- ## Qual hipótese será validada? 
 A hipótese de que um painel interativo com dados industriais pode facilitar a identificação de oportunidades e problemas, auxiliando na tomada de decisões públicas.
 
-## Qual valor será entregue ao usuário final? 
+- ## Qual valor será entregue ao usuário final? 
 Uma ferramenta visual e acessível que reúne informações sobre o cenário industrial de SJC, permitindo análises mais rápidas e decisões estratégicas para o desenvolvimento econômico regional.
 
 ---
