@@ -1,7 +1,7 @@
 # 📌 MVP - LogiForce
 
 ## 🎯 Objetivo do MVP
-O propósito do MVP é desenvolver um painel interativo no Power BI que reúna e apresente informações sobre os principais setores industriais de São José dos Campos, identificando sua concentração, características e desafios. A ferramenta busca facilitar a visualização e a interpretação dos dados, auxiliando gestores públicos na tomada de decisões e no planejamento de ações para fortalecer o desenvolvimento econômico regional.
+> O MVP tem como objetivo desenvolver um painel interativo no Power BI para analisar os principais setores industriais de São José dos Campos, facilitando a interpretação dos dados e apoiando a tomada de decisões e o desenvolvimento econômico regional.
 - Qual problema resolve? 
 A falta de informações organizadas sobre os principais setores industriais de São José dos Campos, sua concentração econômica e seus desafios.
 
@@ -13,8 +13,7 @@ Uma ferramenta visual e acessível que reúne informações sobre o cenário ind
 ---
 
 ## 📝 Descrição da Solução
-
-Será desenvolvido um painel interativo no Power BI para apresentar informações sobre o setor industrial de São José dos Campos, permitindo visualizar sua concentração, características e principais desafios. A solução busca facilitar a análise dos dados e apoiar a tomada de decisões públicas.
+> Será desenvolvido um painel interativo no Power BI para apresentar informações sobre o setor industrial de São José dos Campos, permitindo visualizar sua concentração, características e principais desafios. A solução busca facilitar a análise dos dados e apoiar a tomada de decisões públicas.
 
 Funcionalidades principais incluídas:
 - Visualização dos principais setores industriais de SJC.
