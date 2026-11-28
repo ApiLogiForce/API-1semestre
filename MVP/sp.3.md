@@ -82,6 +82,6 @@ Escopo reduzido:
    
 - Plataforma BI [Power BI Online](https://app.powerbi.com/view?r=eyJrIjoiY2MyNjZjYjYtNTkwZi00ZjM1LTg4MWUtOThlNWVhOWM0Mzk5IiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9&embedImagePlaceholder=true)
 
-- Relatório da Sprint 3: [Google Drive](https://drive.google.com/file/d/1bsDv7lz7Zn8isrHLQhvwD5sNQAGrgmlE/view?usp=sharing)
+- Relatório da Sprint 3: [Google Drive](https://docs.google.com/document/d/13p7eqXf_yijsqut9YGOUW_oKoHL43s-Q/edit?usp=drivesdk&ouid=108064884148767506181&rtpof=true&sd=true)
 
 - Dados e informações do projeto: [Google Drive](https://drive.google.com/drive/folders/192QUjTBLColquClR4Ulbbgz6u5ksVWXy) 
