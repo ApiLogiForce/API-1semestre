@@ -71,17 +71,17 @@ Escopo reduzido:
 - Expansão de funcionalidades para próximo incremento  
 
 ---
-
 ## 📂 Anexos / Evidências
-- Vídeo (MVP): [Youtube](https://youtu.be/nLK3W4LNGYs)
+- Vídeo (MVP): [Youtube](https://youtu.be/EDLu7Pq6bTE?si=uZGgoHtBP12ri07g)
 
-- Códigos em Python: [Google Colab](https://colab.research.google.com/drive/1VNweHcbL9HMMqe0OnENBzHy7RJsiKgML?usp=sharing)
-- [Google Colab](https://colab.research.google.com/drive/1SDTYGqC96yadCJ_LyVfZTrx2yD2u9ifT)
+- Códigos em Python:
+-  [Google Colab](https://colab.research.google.com/drive/1tyynVbY6p5vQzKKlzdZr2lcH6qwhtJUg)
+-  [Google Colab](https://colab.research.google.com/drive/1SDTYGqC96yadCJ_LyVfZTrx2yD2u9ifT)
 
-- Backlog do Produto: [Google Drive]([https://joaoveras2204.atlassian.net/jira/software/projects/CHM/boards/2/backlog](https://docs.google.com/spreadsheets/d/1QLMl6T_HscUJN2Wr1lgov4h0nxRXbFVA/edit?gid=1931246216#gid=1931246216))
+- Backlog do Produto: [Google Drive](https://docs.google.com/spreadsheets/d/1QLMl6T_HscUJN2Wr1lgov4h0nxRXbFVA/edit?usp=drivesdk&ouid=108064884148767506181&rtpof=true&sd=true)
    
 - Plataforma BI [Power BI Online](https://app.powerbi.com/view?r=eyJrIjoiY2MyNjZjYjYtNTkwZi00ZjM1LTg4MWUtOThlNWVhOWM0Mzk5IiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9&embedImagePlaceholder=true)
 
 - Relatório da Sprint 3: [Google Drive](https://drive.google.com/file/d/1bsDv7lz7Zn8isrHLQhvwD5sNQAGrgmlE/view?usp=sharing)
 
-- Dados e informações do projeto: [Google Drive]([https://drive.google.com/drive/folders/1WpgCSsYgyQfJp6wbMT_iUSVMh_ewN1PP?usp=drive_link](https://drive.google.com/drive/folders/192QUjTBLColquClR4Ulbbgz6u5ksVWXy))  
+- Dados e informações do projeto: [Google Drive](https://drive.google.com/drive/folders/192QUjTBLColquClR4Ulbbgz6u5ksVWXy) 
